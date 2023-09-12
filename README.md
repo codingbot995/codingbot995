@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **ReactNative**
 
-- 👯 I’m looking to collaborate on **Web Developers**
+- 👯 I’m looking to collaborate on **Web Developing**
 
 - 💬 Ask me about **React**
 
 - 📫 How to reach me **waguthijane61@gmail.com**
 
-- ⚡ Fun fact **I love watching Kdrama and hacking like MR Robert**
+- ⚡ Fun fact **I love watching Kdrama and hacking like MR Robot**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
